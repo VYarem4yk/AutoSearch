@@ -12,6 +12,7 @@ function App() {
       <nav>
         <NavComponents />
       </nav>
+      <div>Hello</div>
     </Fragment>
   );
 }
