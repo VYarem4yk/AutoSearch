@@ -1,6 +1,7 @@
 import React, { Fragment } from "react";
+import "./styles/index.css";
 
-const NAV_ARR = ["Cars", "Parts", "News", "Price"];
+const NAV_ARR = ["News", "Cars", "Parts"];
 
 function NavComponents() {
   return (

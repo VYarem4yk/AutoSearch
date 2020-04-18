@@ -7,17 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   width: 800px;
   margin: 0 auto;
+  background: url("https://www.ecopetit.cat/wpic/mpic/35-359697_road-hd.jpg");
+  background-size: 100%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
-
-header {
-  color: red;
-  display: flex;
-  justify-content: center;
 }
 
 .navList {

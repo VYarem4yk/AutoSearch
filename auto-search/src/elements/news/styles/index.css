@@ -1,0 +1,15 @@
+.newsBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+  width: 100%;
+  padding-left: 0px;
+}
+
+.newsBlock li {
+  border: dotted 1px black;
+  margin-right: 5px;
+  padding-left: 0;
+  background-color: rgba(245, 245, 245, 0.5);
+}
